@@ -74,9 +74,9 @@ The project provided actionable insights for Social Buzz:
 ## Repository Structure
 ```
 📌 **The datasets used in the project**
-- Content.xlsx
-- Reaction.xlsx
-- Reaction Types.xlsx
+- Content.csv
+- Reaction.csv
+- Reaction Types.csv
 
 📌 **Documentation**
 - Quiz Answer - Accenture (Task 1).txt
