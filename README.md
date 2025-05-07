@@ -1,4 +1,4 @@
-# Accenture Data Analytics and Visualisation Project
+<h1 align="center"> Accenture Data Analytics and Visualisation Project </h1>
 
 ## Project Overview
 This project was part of the **Accenture Data Analytics and Visualisation Virtual Experience**, where I took on the role of a **Data Analyst** to analyze and visualize data for **Social Buzz**, a fast-growing technology company. The project focused on cleaning, modeling, and analyzing datasets to generate insights that would help Social Buzz capitalize on their content strategy.
